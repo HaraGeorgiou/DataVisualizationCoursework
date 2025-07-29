@@ -1,13 +1,13 @@
-# **Quality of Life Data Visualization 📊**
+# **Quality of Life Data Visualization **
 
 ## **Overview**
 This project presents an interactive data visualization of **Quality of Life Metrics** based on the **OECD Better Life Index** dataset. The visualizations aim to provide insights into factors affecting life quality, such as **income, education, health, and environment**.
 
 ## **Features**
-✅ Interactive web-based visualizations (**combined_visualization.html**)  
-✅ Data processing and cleaning using Python  
-✅ Jupyter Notebook with detailed visualization steps  
-✅ Uses **OECD Better Life Index** dataset for analysis  
+- Interactive web-based visualizations (**combined_visualization.html**)  
+- Data processing and cleaning using Python  
+- Jupyter Notebook with detailed visualization steps  
+- Uses **OECD Better Life Index** dataset for analysis  
 
 ## **Tech Stack**
 - **Programming Language:** Python  
@@ -41,8 +41,8 @@ jupyter notebook DataVisualizationCode.ipynb
 
 ## **Project Structure**
 ```
-📂 c1013770_DataVisualization
-│── 📂 data
+ c1013770_DataVisualization
+│──  data
 │   │── OECD_betterLifeIndex.xlsx  # Dataset used for visualization
 │── DataVisualizationCode.ipynb   # Jupyter Notebook with visualization code
 │── combined_visualization.html   # Output visualization in web format
@@ -56,12 +56,12 @@ jupyter notebook DataVisualizationCode.ipynb
 3. The **interactive visualizations** are saved as `combined_visualization.html`, which can be opened in a web browser.
 
 ## **Future Enhancements**
-- ✅ Add more interactive filtering options for users  
-- ✅ Expand dataset to include more global metrics  
-- ✅ Deploy visualizations on a web-based platform  
+-  Add more interactive filtering options for users  
+-  Expand dataset to include more global metrics  
+-  Deploy visualizations on a web-based platform  
 
 ## **License**
 This project is licensed under the **MIT License**.
 
 ## **Author**
-📌 **Hara Georgiou**  
+**Hara Georgiou**  
